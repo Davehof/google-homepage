@@ -1,0 +1,40 @@
+form {
+    position:fixed;
+    top:40%;
+    left:43%;
+    width:300px;
+}
+
+.header {
+    
+    padding: 0px 2px;
+    position: right;
+    text-align:right;
+    width: 100%
+}
+
+.header a {
+    background: white;
+    border: none;
+    color: black;
+    display: inline-block;
+    padding:3px;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color:grey;
+
+}
+.logo {
+    width:100%;
+    position:fixed;
+    left:42%;
+    top: 27%
+}
+
+ .logo img {
+     left: 40%;
+    
+}
