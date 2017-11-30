@@ -1,0 +1,216 @@
+body {
+    font-family: arial,sans-serif;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: gray;
+}
+
+header li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+header {
+    font-size: 20;
+    float: right;
+    
+}
+
+header a{
+    display: inline-block;
+    margin-right: 10px;
+    float: right;
+}
+ #ext {
+     height:30px;
+     width: 30px;
+     background-image: url(googleimagebox.png);
+     background-position: -132px -38px;
+     background-size: 528px 68px;
+     opacity; .5;
+}
+
+#ext:hover {
+    opacity: 1;
+}
+
+#profile {
+    height: 25px;
+    width: 25px;
+    margin: 0;
+    background-color: blue;
+    border-radius: 100%;
+    text-align:center;
+}
+
+main {
+    position:relative;
+    clear: both;
+    padding-top: 130px;
+}
+
+#logo {
+    margin: 0 auto;
+    background-image: url("https://www.google.nl/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"); 
+    height: 92px;
+    width: 272px;
+}
+
+#searchbar-container {
+    margin-top: 25px;
+}
+
+#searchbar {
+    width: 584px;
+    height:44px;
+    border: 1px solid grey;
+    margin: 0 auto;
+    border-radius: 3px;
+    box-shadow: 0px 2px 1px 0px rgba(1,1,0,.15)
+}
+
+form {
+    display: inline-block;
+    padding: 3px
+}
+
+form input {
+    border: none 0;
+    width:525px;
+    height: 34px;
+    font-size: 1em;
+    outline: none;
+}
+
+#buttons input {
+    margin:0 auto;
+}
+
+#language {
+    text-align: center;
+    margin-top: 30px;
+    font-size .8em;
+    
+}
+
+#language a {
+    color:blue;
+}
+
+#lng a {
+    color: blue;
+}
+
+#lng:hover {
+    text-decoration: underline;
+}
+
+footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    background-color: #f2f2f2;
+    
+}
+
+#country {
+    font-size: 1em;
+    color: rgba(0,0,0,.54);
+}
+
+#country, .botleft, .botright {
+    padding: 5px;
+    border: 1px solid #eee;
+    border-left: 0;
+    border-right: 0;
+}
+ .botleft, .botright {
+    padding: 5px;
+    border: 1px solid #eee;
+    border-left: 0;
+    border-right: 0;
+}
+
+footer li{
+    padding:5px;
+}
+
+.botleft {
+    float: left;
+}
+
+.botright {
+    float: right;
+}
+    
+ .botleft li {
+    display: inline-block;
+    font-size: 13px;
+    color: rgba(0,0,0,.54)
+}
+ .botright li {
+    display: inline-block;
+    font-size: 13px;
+    color: rgba(0,0,0,.54)
+}
+
+.botleft a:hover, {
+    text-decoration: underline;
+}
+
+.botright a:hover, {
+    text-decoration: underline;
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
